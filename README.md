@@ -1,4 +1,4 @@
-Nothing worth 👀 here
+Just some old code.
 
 <!---
 general-repo/general-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
